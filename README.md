@@ -2,6 +2,9 @@
 
 Lorynth is an on-chain collaborative fantasy game. Each player chooses one of three paths; GenLayer validators turn that choice into the next canonical chapter and three new paths.
 
+- Live app: [lorynth-genlayer.vercel.app](https://lorynth-genlayer.vercel.app)
+- GitHub: [Richardweb1/lorynth-genlayer](https://github.com/Richardweb1/lorynth-genlayer)
+
 Unlike an oracle or verification app, Lorynth uses AI consensus for shared creative authorship. The contract stores the current scene, choices, chapter count, last player, and the full chapter history.
 
 ## GenLayer architecture
